@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I’m CHANDU</h1>
-I’m a **Full Stack Developer** who loves building unique and impactful digital experiences. I specialize in solving real-world problems through code — whether it’s designing intuitive user interfaces, managing robust backends, or crafting smart and scalable systems.
+I’m a Full Stack Developer who loves building unique and impactful digital experiences. I specialize in solving real-world problems through code — whether it’s designing intuitive user interfaces, managing robust backends, or crafting smart and scalable systems.
 
 
 ##
@@ -45,5 +45,3 @@ I’m a **Full Stack Developer** who loves building unique and impactful digital
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu-71&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
